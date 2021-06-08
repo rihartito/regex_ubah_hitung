@@ -1,9 +1,4 @@
 '''
-Rihar del tito-71200648
-Universitas Kristen Duta Wacana
-Regular Expression
-https://www.w3resource.com/python-exercises/re/
-
 buatlah sebuah fungsi untuk mengubah "#" menjadi persebaya dan hitunglah
 ada berapa "#" yang muncul di kalimat tersebut berdasarkan inputan user
 
